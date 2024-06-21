@@ -7,3 +7,46 @@
     padding: 0;
     box-sizing: 0;
 }
+.Benefits {
+    width: 1150px;
+    height: 294px;
+    margin: 0 auto;
+    background: #1E1823;
+    margin-top: 75px;
+    display: flex;
+    padding: 50px;
+    justify-content: space-around;
+}
+
+.banefitscontent h1 {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.banefitscontent p {
+    color: rgba(255, 255, 255, 0.70);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.28px;
+}
+
+.banefitscontent {
+    display: flex;
+    width: 308px;
+    height: 244px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 22px;
+    
+}
+.line{
+    margin-top: 75px;
+    margin-left:-10px;
+}
